@@ -179,7 +179,7 @@ export default function Home() {
             <div className="flex items-center space-x-4 text-sm text-gray-500">
               <span>© 2024 Bitcoin Price Tracker</span>
               <span>•</span>
-              <span>Deployed on Vercel Singapore</span>
+              <span>Deployed on Vercel</span>
             </div>
             <div className="flex items-center space-x-4 text-sm">
               <a href="#" className="text-gray-500 hover:text-primary transition-colors duration-200">
